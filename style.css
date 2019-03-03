@@ -1,0 +1,26 @@
+        .discord {
+            background: url(img/discord-circle.png) no-repeat left center; 
+            background-size: 36px;
+            width: 40px;
+            height: 40px;
+            font-family: 'Oswald', sans-serif; *or whatever you want*
+            color: #ffffff00;
+            line-height: 40px;
+            font-size: 0px;
+            text-indent: 40px;
+            -webkit-transition: 0.2s;
+            transition: 0.2;
+            margin-left: 50px;   
+        }
+        .discord:hover {
+            background: url(img/discord-circle.png) no-repeat left center;
+            background-size: 36px;
+            height: 40px;
+            width: 100px;      
+            color: #eeeeff;
+            font-size: 15px;
+			letter-spacing: 0.4px;
+            -webkit-transition: 0.2s;
+            transition: 0.2;
+            margin-left: 0
+        }
